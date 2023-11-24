@@ -55,17 +55,6 @@ Set up your accounts and prepare your development environment.
 
 Learn the workflows you need to develop individually and in a group.
 
-- **Week 1**: Chapters 0, 1, 2
-  - Lesson Plan:
-    [VSCode and Git](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/vscode-and-git.md)
-  - Deliverable:
-    [Student Bio PR](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/student-bio-pr.md)
-- **Week 2**: Chapter 3
-  - Lesson Plan:
-    [GitHub Project Management](https://github.com/HackYourFutureBelgium/workflows/blob/master/lesson-plans/github-project-management.md)
-  - Deliverable:
-    [Group Intro Repo](https://github.com/HackYourFutureBelgium/workflows/blob/master/deliverables/group-introduction-repo.md)
-
 ### [2. Agile Development](https://github.com/hackyourfuturebelgium/agile-development): 2 weeks
 
 > [check-ins](https://github.com/HYF-class21/home/issues/?q=milestone%3A"2.%20Agile%20Development"+label%3Acheck-in)
@@ -76,26 +65,6 @@ Learn the workflows you need to develop individually and in a group.
 > || [milestone](https://github.com/HYF-class21/home/milestone/3)
 
 Practice collaboratively planning and developing HTML/CSS websites.
-
-- **Week 1**: Chapters 0, 1 - Following Plans
-  - Lesson Plan:
-    [Planning and Collaborating](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/planning-and-collaborating.md)
-  - Deliverable:
-    [All About Trees](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/all-about-trees)
-- **Week 2**: Chapter 2 - Writing Plans
-  - Lesson Plan:
-    [User-Centered Development](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/user-centered-development.md)
-  - Deliverable:
-    [Loruki Rebuild](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/loruki-rebuild.md)
-- **Week 3**: Chapter 3 - Adapting Plans
-  - Lesson Plan:
-    [Being Agile](https://github.com/HackYourFutureBelgium/agile-development/blob/master/lesson-plans/being-agile.md)
-  - Deliverable: Begin
-    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
-- **Week 4**: Chapter 3 - Adapting Plans
-  - Lesson Plan: Group Project Session
-  - Deliverable: Finish
-    [HYF Redesign](https://github.com/HackYourFutureBelgium/agile-development/blob/master/deliverables/hyf-redesign.md)
 
 ### [3. UX/UI Design](https://github.com/hackyourfuturebelgium/ux-ui-design): 1 week
 
@@ -109,17 +78,6 @@ Practice collaboratively planning and developing HTML/CSS websites.
 Explore design thinking process and placing your users at the center of your
 development process.
 
-- **Week 1**: Chapter 1
-  - Lesson Plan:
-    [Design Thinking](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/design-thinking.md)
-  - Deliverable:
-    [Practical Case](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/practical-case.md)
-- **Week 2**: Chapters 2, 3
-  - Lesson Plan:
-    [Gestalt Principles & Figma](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/lesson-plans/gestalt-and-figma.md)
-  - Deliverable:
-    [Co-Design your Home Page](https://github.com/HackYourFutureBelgium/ux-ui-design/blob/master/deliverables/co-design-your-home-page)
-
 ### [4. Welcome to JS](https://github.com/hackyourfuturebelgium/welcome-to-js): 2 weeks
 
 > [check-ins](https://github.com/HYF-class21/home/issues/?q=milestone%3A"4.%20Welcome%20to%20JS"+label%3Acheck-in)
@@ -131,23 +89,6 @@ development process.
 
 Learn to read small programs, and to write code that other people can
 understand.
-
-- **Week 1**: Chapters 0, 1, 2
-
-  - Lesson Plan:
-    [Computers and Developers](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/computers-and-developers)
-  - Study Priorities: _What is Programming?_ and _Just Enough JS_
-
-- **Week 2**: Chapters 2, 3
-
-  - Lesson Plan:
-    [DevTools Debugger](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/devtools-debugger)
-  - Study Priorities: _Just Enough JS_ and _Understanding Programs_
-
-- **Week 3**: Chapter 4
-  - Lesson Plan:
-    [Writing and Reviewing](https://github.com/HackYourFutureBelgium/welcome-to-js/blob/master/lesson-plans/writing-and-reviewing)
-  - Study Priorities: _Developing Programs_
 
 ### [5. Inside JS](https://github.com/hackyourfuturebelgium/inside-js): 3 weeks
 
@@ -172,21 +113,6 @@ your foundations now so later you can focus on the fun stuff.
 
 Explore problem solving in JavaScript, learn how to write and review solutions
 to JS coding challenges.
-
-- **Week 1**: Chapter 1
-  - Lesson Plan:
-    [Solution Write-Ups](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/solution-write-ups.md)
-  - Study Priorities: Try to write up at least 3 solutions during the week.
-- **Week 2**: Chapters 2
-  - Lesson Plan:
-    [Function Design](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/function-design.md)
-  - Study Priorities: Try to solve 2-4 exercises from each section of the
-    chapter
-- **Week 3**: Chapter 3
-  - Lesson Plan:
-    [Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/lesson-plans/code-review.md)
-  - Deliverable:
-    [Practice Code Review](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation/blob/master/deliverables/practice-code-review.md)
 
 ### [7. Separation of Concerns](https://github.com/hackyourfuturebelgium/separation-of-concerns): 3 weeks
 
