@@ -51,7 +51,7 @@ path:
       Explore problem solving in JavaScript, learn how to write and review
       solutions to JS coding challenges.
     url: https://github.com/hackyourfuturebelgium/behavior-strategy-implementation
-    weeks: 3
+    weeks: 2
     milestone: 7
     state: open
   - name: 7. Separation of Concerns

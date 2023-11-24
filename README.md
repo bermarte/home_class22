@@ -102,7 +102,7 @@ understand.
 Take a deep dive into JavaScript and explore some it's trickiest features. Build
 your foundations now so later you can focus on the fun stuff.
 
-### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 3 weeks
+### [6. Behavior, Strategy, Implementation](https://github.com/hackyourfuturebelgium/behavior-strategy-implementation): 2 weeks
 
 > [check-ins](https://github.com/HYF-class21/home/issues/?q=milestone%3A"6.%20Behavior%2C%20Strategy%2C%20Implementation"+label%3Acheck-in)
 > |
