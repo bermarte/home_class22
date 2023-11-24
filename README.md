@@ -138,7 +138,7 @@ shared divided across team.
 Learn how the JavaScript event loop works and how you can use API data in your
 websites.
 
-### [9. Databases](https://github.com/hackyourfuturebelgium/headless-cms): 3 weeks
+### [9. Databases](https://github.com/HackYourFutureBelgium/databases-sql-nosql): 3 weeks
 
 > [check-ins](https://github.com/HYF-class21/home/issues/?q=milestone%3A"9.%20Databases"+label%3Acheck-in)
 > |
@@ -150,7 +150,7 @@ websites.
 Learn using relational and non-relational databases to create, update and access
 data
 
-### [10. Node.js](https://github.com/hackyourfuturebelgium/component-based-design): 3 weeks
+### [10. Node.js](https://github.com/HackYourFutureBelgium/node-js): 3 weeks
 
 > [check-ins](https://github.com/HYF-class21/home/issues/?q=milestone%3A"10.%20Node.js"+label%3Acheck-in)
 > |

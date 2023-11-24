@@ -74,14 +74,14 @@ path:
     description: >-
       Learn using relational and non-relational databases to create, update and
       access data
-    url: https://github.com/hackyourfuturebelgium/headless-cms
+    url: https://github.com/HackYourFutureBelgium/databases-sql-nosql
     weeks: 3
     milestone: 10
     state: open
   - name: 10. Node.js
     description: >-
       Practice developing Node.js and express to build RESTful API
-    url: https://github.com/hackyourfuturebelgium/component-based-design
+    url: https://github.com/HackYourFutureBelgium/node-js
     weeks: 3
     milestone: 11
     state: open
