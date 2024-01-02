@@ -191,6 +191,248 @@ real-world problem they face, then deliver a web app to meet their needs.
 
 <!-- BEGIN LEARNERS -->
 
+## Learners
+
+| <img src="./admin/assets/avatars/adnanmalkic.png" height="200px" width="200px" alt="adnanmalkic avatar" /> | <h3 id="adnanmalkic">Adnan</h3><br>[adnanmalkic](https://github.com/adnanmalkic) \| [home page](https://adnanmalkic.github.io) \| [bio](./student-bios/adnanmalkic.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Aadnanmalkic+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Aadnanmalkic+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Aadnanmalkic+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Aadnanmalkic) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Aadnanmalkic) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Aadnanmalkic) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Aadnanmalkic) |
+| ---------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Adnan's github stats</summary>
+<br>
+
+![adnanmalkic github activity](https://ghchart.rshah.org/adnanmalkic)
+
+![adnanmalkic github stats](https://github-readme-stats.vercel.app/api?username=adnanmalkic&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/alasaidi.png" height="200px" width="200px" alt="alasaidi avatar" /> | <h3 id="alasaidi">Ala</h3><br>[alasaidi](https://github.com/alasaidi) \| [home page](https://alasaidi.github.io) \| [bio](./student-bios/alasaidi.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Aalasaidi+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Aalasaidi+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Aalasaidi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Aalasaidi) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Aalasaidi) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Aalasaidi) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Aalasaidi) |
+| ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Ala's github stats</summary>
+<br>
+
+![alasaidi github activity](https://ghchart.rshah.org/alasaidi)
+
+![alasaidi github stats](https://github-readme-stats.vercel.app/api?username=alasaidi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/amirabayoumi.png" height="200px" width="200px" alt="amirabayoumi avatar" /> | <h3 id="amirabayoumi">Amira</h3><br>[amirabayoumi](https://github.com/amirabayoumi) \| [home page](https://amirabayoumi.github.io) \| [bio](./student-bios/amirabayoumi.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Aamirabayoumi+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Aamirabayoumi+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Aamirabayoumi+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Aamirabayoumi) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Aamirabayoumi) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Aamirabayoumi) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Aamirabayoumi) |
+| ------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Amira's github stats</summary>
+<br>
+
+![amirabayoumi github activity](https://ghchart.rshah.org/amirabayoumi)
+
+![amirabayoumi github stats](https://github-readme-stats.vercel.app/api?username=amirabayoumi&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Ashrafpoless.png" height="200px" width="200px" alt="Ashrafpoless avatar" /> | <h3 id="Ashrafpoless">Ashraf</h3><br>[Ashrafpoless](https://github.com/Ashrafpoless) \| [home page](https://Ashrafpoless.github.io) \| [bio](./student-bios/Ashrafpoless.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3AAshrafpoless+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3AAshrafpoless+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3AAshrafpoless+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3AAshrafpoless) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3AAshrafpoless) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3AAshrafpoless) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3AAshrafpoless) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Ashraf's github stats</summary>
+<br>
+
+![Ashrafpoless github activity](https://ghchart.rshah.org/Ashrafpoless)
+
+![Ashrafpoless github stats](https://github-readme-stats.vercel.app/api?username=Ashrafpoless&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/betulaydinturkk.png" height="200px" width="200px" alt="betulaydinturkk avatar" /> | <h3 id="betulaydinturkk">Betul</h3><br>[betulaydinturkk](https://github.com/betulaydinturkk) \| [home page](https://betulaydinturkk.github.io) \| [bio](./student-bios/betulaydinturkk.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Abetulaydinturkk+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Abetulaydinturkk+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Abetulaydinturkk+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Abetulaydinturkk) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Abetulaydinturkk) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Abetulaydinturkk) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Abetulaydinturkk) |
+| ------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Betul's github stats</summary>
+<br>
+
+![betulaydinturkk github activity](https://ghchart.rshah.org/betulaydinturkk)
+
+![betulaydinturkk github stats](https://github-readme-stats.vercel.app/api?username=betulaydinturkk&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/jgchoti.png" height="200px" width="200px" alt="jgchoti avatar" /> | <h3 id="jgchoti">Chotirat</h3><br>[jgchoti](https://github.com/jgchoti) \| [home page](https://jgchoti.github.io) \| [bio](./student-bios/jgchoti.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Ajgchoti+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Ajgchoti+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Ajgchoti+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Ajgchoti) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Ajgchoti) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Ajgchoti) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Ajgchoti) |
+| -------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Chotirat's github stats</summary>
+<br>
+
+![jgchoti github activity](https://ghchart.rshah.org/jgchoti)
+
+![jgchoti github stats](https://github-readme-stats.vercel.app/api?username=jgchoti&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/edinssa.png" height="200px" width="200px" alt="edinssa avatar" /> | <h3 id="edinssa">Etefa</h3><br>[edinssa](https://github.com/edinssa) \| [home page](https://edinssa.github.io) \| [bio](./student-bios/edinssa.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Aedinssa+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Aedinssa+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Aedinssa+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Aedinssa) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Aedinssa) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Aedinssa) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Aedinssa) |
+| -------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Etefa's github stats</summary>
+<br>
+
+![edinssa github activity](https://ghchart.rshah.org/edinssa)
+
+![edinssa github stats](https://github-readme-stats.vercel.app/api?username=edinssa&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Tesfay20.png" height="200px" width="200px" alt="Tesfay20 avatar" /> | <h3 id="Tesfay20">Haftu</h3><br>[Tesfay20](https://github.com/Tesfay20) \| [home page](https://Tesfay20.github.io) \| [bio](./student-bios/Tesfay20.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3ATesfay20+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3ATesfay20+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3ATesfay20+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3ATesfay20) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3ATesfay20) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3ATesfay20) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3ATesfay20) |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Haftu's github stats</summary>
+<br>
+
+![Tesfay20 github activity](https://ghchart.rshah.org/Tesfay20)
+
+![Tesfay20 github stats](https://github-readme-stats.vercel.app/api?username=Tesfay20&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/hitomipupil.png" height="200px" width="200px" alt="hitomipupil avatar" /> | <h3 id="hitomipupil">Hitomi</h3><br>[hitomipupil](https://github.com/hitomipupil) \| [home page](https://hitomipupil.github.io) \| [bio](./student-bios/hitomipupil.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Ahitomipupil+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Ahitomipupil+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Ahitomipupil+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Ahitomipupil) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Ahitomipupil) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Ahitomipupil) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Ahitomipupil) |
+| ---------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Hitomi's github stats</summary>
+<br>
+
+![hitomipupil github activity](https://ghchart.rshah.org/hitomipupil)
+
+![hitomipupil github stats](https://github-readme-stats.vercel.app/api?username=hitomipupil&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/khantm02.png" height="200px" width="200px" alt="khantm02 avatar" /> | <h3 id="khantm02">Khant</h3><br>[khantm02](https://github.com/khantm02) \| [home page](https://khantm02.github.io) \| [bio](./student-bios/khantm02.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Akhantm02+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Akhantm02+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Akhantm02+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Akhantm02) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Akhantm02) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Akhantm02) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Akhantm02) |
+| ---------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Khant's github stats</summary>
+<br>
+
+![khantm02 github activity](https://ghchart.rshah.org/khantm02)
+
+![khantm02 github stats](https://github-readme-stats.vercel.app/api?username=khantm02&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/kamaneri.png" height="200px" width="200px" alt="kamaneri avatar" /> | <h3 id="kamaneri">khurram</h3><br>[kamaneri](https://github.com/kamaneri) \| [home page](https://kamaneri.github.io) \| [bio](./student-bios/kamaneri.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Akamaneri+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Akamaneri+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Akamaneri+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Akamaneri) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Akamaneri) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Akamaneri) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Akamaneri) |
+| ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>khurram's github stats</summary>
+<br>
+
+![kamaneri github activity](https://ghchart.rshah.org/kamaneri)
+
+![kamaneri github stats](https://github-readme-stats.vercel.app/api?username=kamaneri&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Lishan6.png" height="200px" width="200px" alt="Lishan6 avatar" /> | <h3 id="Lishan6">Lishan</h3><br>[Lishan6](https://github.com/Lishan6) \| [home page](https://Lishan6.github.io) \| [bio](./student-bios/Lishan6.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3ALishan6+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3ALishan6+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3ALishan6+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3ALishan6) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3ALishan6) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3ALishan6) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3ALishan6) |
+| -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Lishan's github stats</summary>
+<br>
+
+![Lishan6 github activity](https://ghchart.rshah.org/Lishan6)
+
+![Lishan6 github stats](https://github-readme-stats.vercel.app/api?username=Lishan6&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Mamine777.png" height="200px" width="200px" alt="Mamine777 avatar" /> | <h3 id="Mamine777">Mohamed</h3><br>[Mamine777](https://github.com/Mamine777) \| [home page](https://Mamine777.github.io) \| [bio](./student-bios/Mamine777.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3AMamine777+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3AMamine777+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3AMamine777+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3AMamine777) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3AMamine777) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3AMamine777) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3AMamine777) |
+| ------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Mohamed's github stats</summary>
+<br>
+
+![Mamine777 github activity](https://ghchart.rshah.org/Mamine777)
+
+![Mamine777 github stats](https://github-readme-stats.vercel.app/api?username=Mamine777&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/MishaShevchenko.png" height="200px" width="200px" alt="MishaShevchenko avatar" /> | <h3 id="MishaShevchenko">Mykhailo</h3><br>[MishaShevchenko](https://github.com/MishaShevchenko) \| [home page](https://MishaShevchenko.github.io) \| [bio](./student-bios/MishaShevchenko.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3AMishaShevchenko+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3AMishaShevchenko+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3AMishaShevchenko+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3AMishaShevchenko) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3AMishaShevchenko) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3AMishaShevchenko) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3AMishaShevchenko) |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Mykhailo's github stats</summary>
+<br>
+
+![MishaShevchenko github activity](https://ghchart.rshah.org/MishaShevchenko)
+
+![MishaShevchenko github stats](https://github-readme-stats.vercel.app/api?username=MishaShevchenko&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/Prince4ademola.png" height="200px" width="200px" alt="Prince4ademola avatar" /> | <h3 id="Prince4ademola">Rasaq</h3><br>[Prince4ademola](https://github.com/Prince4ademola) \| [home page](https://Prince4ademola.github.io) \| [bio](./student-bios/Prince4ademola.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3APrince4ademola+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3APrince4ademola+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3APrince4ademola+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3APrince4ademola) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3APrince4ademola) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3APrince4ademola) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3APrince4ademola) |
+| ---------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Rasaq's github stats</summary>
+<br>
+
+![Prince4ademola github activity](https://ghchart.rshah.org/Prince4ademola)
+
+![Prince4ademola github stats](https://github-readme-stats.vercel.app/api?username=Prince4ademola&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/rugiraprince.png" height="200px" width="200px" alt="rugiraprince avatar" /> | <h3 id="rugiraprince">Rugira</h3><br>[rugiraprince](https://github.com/rugiraprince) \| [home page](https://rugiraprince.github.io) \| [bio](./student-bios/rugiraprince.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Arugiraprince+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Arugiraprince+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Arugiraprince+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Arugiraprince) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Arugiraprince) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Arugiraprince) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Arugiraprince) |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+
+<details>
+<summary>Rugira's github stats</summary>
+<br>
+
+![rugiraprince github activity](https://ghchart.rshah.org/rugiraprince)
+
+![rugiraprince github stats](https://github-readme-stats.vercel.app/api?username=rugiraprince&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+| <img src="./admin/assets/avatars/younes8888.png" height="200px" width="200px" alt="younes8888 avatar" /> | <h3 id="younes8888">Seddouki</h3><br>[younes8888](https://github.com/younes8888) \| [home page](https://younes8888.github.io) \| [bio](./student-bios/younes8888.md)<br>[check-ins](https://github.com/HYF-class22/home/issues/?q=assignee%3Ayounes8888+label%3Acheck-in) \| [deliverables](https://github.com/orgs/HYF-class22/projects/1?filterQuery=assignee%3Ayounes8888+label%3Adeliverable) \| [retros](https://github.com/HYF-class22/home/issues/?q=assignee%3Ayounes8888+label%3Aretro+label%3Acheck-in)<br>[opened](https://github.com/HYF-class22/home/issues?q=author%3Ayounes8888) \| [assigned](https://github.com/HYF-class22/home/issues?q=assignee%3Ayounes8888) \| [commented](https://github.com/HYF-class22/home/issues?q=commenter%3Ayounes8888) \| [mentioned](https://github.com/HYF-class22/home/issues?q=mentions%3Ayounes8888) |
+| -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<details>
+<summary>Seddouki's github stats</summary>
+<br>
+
+![younes8888 github activity](https://ghchart.rshah.org/younes8888)
+
+![younes8888 github stats](https://github-readme-stats.vercel.app/api?username=younes8888&show_icons=true&theme=default&hide_title=true&hide_rank=true)
+
+</details>
+<hr style="width:60%;align:center">
+
+---
+
 <!-- END LEARNERS -->
 
 <!-- BEGIN COACHES -->
