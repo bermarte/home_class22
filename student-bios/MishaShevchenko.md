@@ -2,7 +2,7 @@
 
 ---
 
-# Mykhailo Shevchenko
+## Mykhailo Shevchenko
 
 ---
 
@@ -14,8 +14,8 @@
 
 ### Contact information
 
-- **LinkedIn:** www.linkedin.com/in/misha-shevchenko
-- **E-mail:** shevchenko21021984@gmail.com
+- **LinkedIn:** <www.linkedin.com/in/misha-shevchenko>
+- **E-mail:** <shevchenko21021984@gmail.com>
 - **GitLab:** <https://gitlab.com/MishaShevchenko>
 - **phone:** +310617055050
 - **Discord:** Misha2102#6712
@@ -55,7 +55,7 @@ Complete the square sum function so that it squares each number passed into it
 and then sums the results together. For example, for [1, 2, 2] it should return
 9
 
-```
+``` javascript
 function squareSum(numbers){
   let result = 0;
     for (let i = 0; i < numbers.length; i++) {
