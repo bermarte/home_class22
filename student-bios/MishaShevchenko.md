@@ -44,7 +44,6 @@ new technologies.
 - IPv4,IPv6
 - Troubleshooting
 - Computer networking
-- IPv4,IPv6
 - CyberSecurity
 
 ---
@@ -78,7 +77,7 @@ function squareSum(numbers) {
 
 ### Education History
 
-- **University:** \* Bachelor of finanse Taurida 'V. I. Vernadskiy' National
+- **University:** \* Bachelor of 'Finanse' Taurida 'V. I. Vernadskiy' National
   University, Simferopol Year of Graduation: 2007
 - **Courses** \* Epam System IT Fundamentals for switchers 03.2022
   - Epam System IT Fundamentals Front End 06.2022
