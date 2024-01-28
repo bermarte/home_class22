@@ -1,7 +1,5 @@
 # 👋🏽 Hello! I'm Choti
 
-![choti 's photo](https://github.com/HYF-Class22/home/blob/main/admin/assets/avatars/jgchoti.png?raw=true)
-
 🌏 **Background:** Thai 🇹🇭 Now living in Belgium 🇧🇪. I've lived in 🇹🇭 🇨🇭 🇬🇧 🇲🇻
 🇲🇾 🇩🇰 🇸🇮 🇪🇸.
 
