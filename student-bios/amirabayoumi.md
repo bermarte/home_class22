@@ -2,6 +2,10 @@
 
 ---
 
+![Amiraimage](img/img-amira.JPG)
+
+---
+
 About Me:
 
 Hello, I am **Amira**, **32** years old :sagittarius: I live in **Antwerp**,
