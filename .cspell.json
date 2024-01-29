@@ -105,12 +105,13 @@
     "Amira",
     "amirabayoumi",
     "Ashraf",
-    "Ashrafpoless",
+    
     "PPID",
     "PGID",
     "WINPID",
     "STIME",
-    "mintty"
+    "mintty",
+    "Ashrafpoless"
   ],
   "ignorePaths": [
     "node_modules/**",
