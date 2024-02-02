@@ -3,15 +3,11 @@
 ![rugiraprince](./img/rugiraprince.png) now currently learning full stuck web
 developer
 
-## EDUCATION
-
-JUNE 2018 HIGH SCHOOL DIPLOMA AT UGEAFI JUNE 2012 Primary school Ep Runundu
-
-### SKILLS
+## SKILLS
 
 html css javascript php
 
-#### EXPERIENCES
+### EXPERIENCES
 
 DATES FROM MAY 2021 CURRENTLY •community work at centre of asylum Arlon DATE
 FROM OCT, 2019 UP TO JANUARY 2021 •IT TECHNICIAN MINEMBWE CYBER INTERNET I was

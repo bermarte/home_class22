@@ -113,14 +113,13 @@
     "Ashrafpoless",
     "Ashrafpoless",
     "Choti",
-    "rugiraprince",
     "UGEAFI",
     "Runundu",
     "Arlon",
     "MINEMBWE",
     "swahili",
     "Kinyamulenge"
-    
+
   ],
   "ignorePaths": [
     "node_modules/**",
