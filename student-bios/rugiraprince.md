@@ -1,13 +1,13 @@
-# i am rugiraprince
+# HEY THERE
 
 ![rugiraprince](./img/rugiraprince.png) now currently learning full stuck web
 developer
 
-## education
+## EDUCATION
 
 JUNE 2018 HIGH SCHOOL DIPLOMA AT UGEAFI JUNE 2012 Primary school Ep Runundu
 
-### skill
+### SKILLS
 
 html css javascript php
 
