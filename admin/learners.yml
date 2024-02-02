@@ -1,5 +1,3 @@
-- name: Adnan
-  user: adnanmalkic
 - name: Ala
   user: alasaidi
 - name: Amira
@@ -18,8 +16,6 @@
   user: hitomipupil
 - name: Khant
   user: khantm02
-- name: khurram
-  user: kamaneri
 - name: Lishan
   user: Lishan6
 - name: Mohamed
