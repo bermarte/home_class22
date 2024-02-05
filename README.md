@@ -2,6 +2,14 @@
 
 # Home: HYF Class22
 
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 > <details>
 > <summary>Tech Support</summary>
 >
